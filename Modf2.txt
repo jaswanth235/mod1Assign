@@ -1,0 +1,2 @@
+Sample content in f2
+this is feature2
